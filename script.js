@@ -6,8 +6,6 @@ const rightBtn = document.getElementById("right");
 
 const img = document.querySelectorAll("#imgs img");
 
-console.log(img);
-
 let index = 0;
 
 const changeImage = () => {
